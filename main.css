@@ -1,0 +1,29 @@
+* {
+    border: 1px solid lightseagreen;
+}
+.hero {
+    justify-content: space-around;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.plan-form {
+    align-items: center;
+    justify-content: center;
+}
+aside > div {
+    display: flex
+    
+}
+.c {
+    display: flex;
+    justify-content: center;
+    
+}
+
+aside > p {
+    max-width: 30%;
+}
